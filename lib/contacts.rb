@@ -22,3 +22,4 @@ contact_details_hash.each do |attribute, data|
       end
     end
   end
+end 
